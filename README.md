@@ -1,1 +1,1 @@
-# FinTax
+Tax Calculator
